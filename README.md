@@ -37,7 +37,7 @@ This project explores **Vector Databases** and their role in modern AI systems, 
 Covers the key concepts, architectures, comparative analysis, and use cases with visual diagrams.
 
 ### 3. Video Presentation (10-15 minutes)
-**YouTube Link:** `[TO BE UPDATED]`
+**YouTube Link:** [Presentation Video](https://youtu.be/TsiPqZ6GqVI)
 
 Recorded walkthrough of the presentation explaining core concepts and insights.
 
@@ -94,7 +94,7 @@ Recorded walkthrough of the presentation explaining core concepts and insights.
 | **Research Paper** | [arXiv:2310.11703](https://arxiv.org/abs/2310.11703) |
 | **Medium Article** | [Read Article](https://medium.com/@prachigupta2610/vector-databases-the-backbone-of-ai-d546d23eef6a) |
 | **Presentation** | [View Slides](https://docs.google.com/presentation/d/1Z8EptTwFo1y5S1zzNYnCJng0TAOPXg6n/edit?usp=drive_link&ouid=114263394935670902441&rtpof=true&sd=true) |
-| **Video** | `[TO BE UPDATED]` 
+| **Video** | [Presentation Video](https://youtu.be/TsiPqZ6GqVI) |
 
 ---
 
